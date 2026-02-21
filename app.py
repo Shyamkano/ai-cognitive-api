@@ -41,9 +41,9 @@ VALID_API_KEYS = {
 # ==================== 3️⃣ LOAD ML MODELS ====================
 print("Loading all machine learning models...")
 try:
-    sensor_model = joblib.load("mobile sensors/sensor_model_final.pkl")
-    sensor_scaler = joblib.load("mobile sensors/sensor_scaler.pkl")
-    sensor_encoder = joblib.load("mobile sensors/sensor_label_encoder.pkl")
+    sensor_model = joblib.load("mobile_sensors/sensor_model_final.pkl")
+    sensor_scaler = joblib.load("mobile_sensors/sensor_scaler.pkl")
+    sensor_encoder = joblib.load("mobile_sensors/sensor_label_encoder.pkl")
     print("✅ Sensor Model loaded successfully.")
 except Exception as e:
     print(f"⚠️ Could not load Sensor Model: {e}")
