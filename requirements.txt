@@ -1,0 +1,14 @@
+Flask
+flask-cors
+flask-limiter
+flasgger
+pandas
+scikit-learn
+joblib
+numpy
+opencv-python-headless
+soundfile
+transformers
+torch
+deepface
+gunicorn
