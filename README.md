@@ -1,6 +1,6 @@
 # 🧠 Beatus Engine: AI Cognitive State API
 
-![Beatus Engine Header](file:///C:/Users/kanoj/.gemini/antigravity/brain/12374e6b-08f5-49b3-8b33-e4af58e7a6ac/beatus_engine_header_1774526587973.png)
+![Beatus Engine Header](assets/beatus_engine_header.png)
 
 > **"Turning human emotions into adaptive brainwave experiences."**
 
